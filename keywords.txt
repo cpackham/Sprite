@@ -1,0 +1,7 @@
+Sprite	KEYWORD1
+Dancer	KEYWORD1
+Smiley	KEYWORD1
+Spinner	KEYWORD1
+Hourglass	KEYWORD1
+begin	KEYWORD2
+next	KEYWORD2
